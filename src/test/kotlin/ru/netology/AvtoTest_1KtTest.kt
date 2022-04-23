@@ -183,7 +183,7 @@ class AvtoTest_1KtTest {
         )
 
         //  Assert — сравнение ожидаемого результата с фактическим.
-        assertEquals(3500, result)
+        assertEquals(0, result) // поломал сборку 0 вместо 3500
     }
     @Test
     fun commission_Mir_Ok() {
