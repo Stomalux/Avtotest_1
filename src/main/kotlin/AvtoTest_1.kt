@@ -6,6 +6,8 @@
 // Определение комиссии перевода и его возможности
 const val commit = 1000
 const val git = 200
+const val yyy =111
+
 
 const val commisConst = 0.0075 // Комиссия - 0.75%
 const val commisConstM = 0.006 // Комиссия - 0.6%
